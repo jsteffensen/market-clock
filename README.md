@@ -2,4 +2,4 @@
 Show NY time in large font
 
 
-![image](https://imgur.com/tekK5fR)
+![image](https://i.imgur.com/tekK5fR.png)
